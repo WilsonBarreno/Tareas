@@ -1,5 +1,5 @@
 var Carnet=11104051;
-var Mes=12;
+var Mes=10;			
 switch(Mes)
 {
   case 1: alert("Es invierno")
